@@ -1,10 +1,12 @@
 import './App.css';
+import Banner from './Banner/Banner';
+import Navbar from './Navbar/Navbar';
 
 function App() {
   return (
-    <div>
-      <button className="btn btn-primary">Button</button>
-
+    <div className='bg-base-100'>
+      <Navbar></Navbar>
+      <Banner></Banner>
     </div>
   );
 }

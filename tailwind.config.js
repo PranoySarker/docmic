@@ -14,7 +14,7 @@ module.exports = {
           secondary: "#642DFF",
           paragraph1: "#575757",
           textb: "#1E1E1E",
-          "base-100": "#F7F7F7",
+          'base-100': "#F7F7F7",
         },
       },
       "dark",
