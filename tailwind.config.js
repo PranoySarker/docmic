@@ -15,6 +15,8 @@ module.exports = {
           paragraph1: "#575757",
           textb: "#1E1E1E",
           'base-100': "#F7F7F7",
+          'bg-layer-b': "#90D4ED",
+          'bg-layer-p': "#EB90ED",
         },
       },
       "dark",
