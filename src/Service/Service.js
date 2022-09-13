@@ -9,10 +9,10 @@ const Service = () => {
         <div className='mt-72 md:mt-96 lg:mt-20'>
             <div className='text-center'>
                 <h4 className='text-secondary text-xl font-medium'>Our Services</h4>
-                <h1 className='text-textb text-5xl font-medium mt-3'>Services For Your Health</h1>
+                <h1 className='text-textb text-2xl lg:text-5xl font-medium mt-3'>Services For Your Health</h1>
             </div>
             {/* cards */}
-            <div className='px-20 my-10 grid grid-cols-1 lg:grid-cols-4 gap-3'>
+            <div className='px-5 md:px-20 my-10 grid grid-cols-1 lg:grid-cols-4 gap-3'>
                 <div className="card w-68 bg-white shadow-xl">
                     <div className="card-body">
                         <div className='card-actions justify-end'>
